@@ -1,6 +1,6 @@
 #include<iostream>
 
 int main(){
-    std::cout << "Hello Testing!" << std::endl;
+    std::cout << "My Template!" << std::endl;
     return 0;
 }
