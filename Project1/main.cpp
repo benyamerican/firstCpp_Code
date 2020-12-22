@@ -1,6 +1,6 @@
-#include<iostream>
+#include <iostream>
 
-int main(){
-    std::cout << "My Template!" << std::endl;
-    return 0;
+int main() {
+	std::cout << "Hello Windows command line" << std::endl;
+	return 0;
 }
